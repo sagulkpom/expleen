@@ -1,0 +1,2 @@
+[26-Jan-2016 13:12:31 UTC] PHP Fatal error:  Call to undefined function mysqli_fetch_araay() in /home/dableu/public_html/new_flowchart/model/update.php on line 13
+[10-Feb-2016 21:41:45 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/dableu/public_html/new_flowchart/model/create_image.php on line 103
